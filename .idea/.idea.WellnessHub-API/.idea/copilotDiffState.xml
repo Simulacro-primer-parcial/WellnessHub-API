@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/WellnessHub-API/Program.cs">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/WellnessHub-API/Program.cs" />
+              <option name="originalContent" value="var builder = WebApplication.CreateBuilder(args);&#10;&#10;// Add services to the container.&#10;&#10;builder.Services.AddControllers();&#10;// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi&#10;builder.Services.AddOpenApi();&#10;&#10;var app = builder.Build();&#10;&#10;// Configure the HTTP request pipeline.&#10;if (app.Environment.IsDevelopment())&#10;{&#10;    app.MapOpenApi();&#10;}&#10;&#10;app.UseHttpsRedirection();&#10;&#10;app.UseAuthorization();&#10;&#10;app.MapControllers();&#10;&#10;app.Run();" />
+              <option name="updatedContent" value="var builder = WebApplication.CreateBuilder(args);&#10;&#10;// Add services to the container.&#10;&#10;builder.Services.AddControllers();&#10;// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi&#10;builder.Services.AddOpenApi();&#10;&#10;var app = builder.Build();&#10;&#10;// Configure the HTTP request pipeline.&#10;if (app.Environment.IsDevelopment())&#10;{&#10;    app.UseSwagger();&#10;    app.UseSwaggerUI();&#10;    app.MapOpenApi();&#10;}&#10;&#10;app.UseHttpsRedirection();&#10;&#10;app.UseAuthorization();&#10;&#10;app.MapControllers();&#10;&#10;app.Run();" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
