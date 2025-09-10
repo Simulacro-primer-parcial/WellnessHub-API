@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "kySakgDXo3E=",
+  "dgSpecHash": "9Gh8fWWahrY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mateo\\RiderProjects\\WellnessHub-API\\WellnessHub-API\\WellnessHub-API.csproj",
+  "projectFilePath": "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mateo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
-    "C:\\Users\\mateo\\.nuget\\packages\\microsoft.openapi\\1.6.25\\microsoft.openapi.1.6.25.nupkg.sha512",
-    "C:\\Users\\mateo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.4\\swashbuckle.aspnetcore.swagger.9.0.4.nupkg.sha512",
-    "C:\\Users\\mateo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.4\\swashbuckle.aspnetcore.swaggergen.9.0.4.nupkg.sha512",
-    "C:\\Users\\mateo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.4\\swashbuckle.aspnetcore.swaggerui.9.0.4.nupkg.sha512"
+    "C:\\Users\\marit\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\marit\\.nuget\\packages\\microsoft.openapi\\1.6.25\\microsoft.openapi.1.6.25.nupkg.sha512",
+    "C:\\Users\\marit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.4\\swashbuckle.aspnetcore.swagger.9.0.4.nupkg.sha512",
+    "C:\\Users\\marit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.4\\swashbuckle.aspnetcore.swaggergen.9.0.4.nupkg.sha512",
+    "C:\\Users\\marit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.4\\swashbuckle.aspnetcore.swaggerui.9.0.4.nupkg.sha512"
   ],
   "logs": []
 }

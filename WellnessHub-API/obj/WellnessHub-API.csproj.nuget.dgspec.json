@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateo\\RiderProjects\\WellnessHub-API\\WellnessHub-API\\WellnessHub-API.csproj": {}
+    "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateo\\RiderProjects\\WellnessHub-API\\WellnessHub-API\\WellnessHub-API.csproj": {
+    "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateo\\RiderProjects\\WellnessHub-API\\WellnessHub-API\\WellnessHub-API.csproj",
+        "projectUniqueName": "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj",
         "projectName": "WellnessHub-API",
-        "projectPath": "C:\\Users\\mateo\\RiderProjects\\WellnessHub-API\\WellnessHub-API\\WellnessHub-API.csproj",
-        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateo\\RiderProjects\\WellnessHub-API\\WellnessHub-API\\obj\\",
+        "projectPath": "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj",
+        "packagesPath": "C:\\Users\\marit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\marit\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\marit\\.dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
