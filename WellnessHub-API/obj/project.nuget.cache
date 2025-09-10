@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s4WA8/kySHc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateo\\RiderProjects\\WellnessHub-API\\WellnessHub-API\\WellnessHub-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\mateo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
