@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using WellnessHub_API.Data;  
-using WellnessHub_API.Models; 
+using WellnessHub.Data;  
+using WellnessHub.Models; 
 
-namespace WellnessHub_API.Controllers;
+namespace WellnessHub.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

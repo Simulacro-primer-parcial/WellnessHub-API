@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace WellnessHub_API.Models;
+namespace WellnessHub.Models;
 
 public class Habit
 {
