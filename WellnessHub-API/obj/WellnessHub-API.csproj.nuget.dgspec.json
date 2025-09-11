@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj": {}
+    "C:\\Users\\denym\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj": {
+    "C:\\Users\\denym\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj",
+        "projectUniqueName": "C:\\Users\\denym\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj",
         "projectName": "WellnessHub-API",
-        "projectPath": "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj",
-        "packagesPath": "C:\\Users\\marit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\obj\\",
+        "projectPath": "C:\\Users\\denym\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj",
+        "packagesPath": "C:\\Users\\denym\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denym\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\denym\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -45,6 +45,20 @@
           "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.8, )"
             },
@@ -80,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\marit\\.dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\denym\\.dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
