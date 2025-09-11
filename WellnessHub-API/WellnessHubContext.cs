@@ -12,6 +12,9 @@ namespace WellnessHub_API
 
         public DbSet<MoodEntry> MoodEntries { get; set; }
 
-        // Otros DbSet (Habits, Meals, Workouts) pueden ir aquí
+        // Aquí se agregan otras entidades como:
+        // public DbSet<Habit> Habits { get; set; }
+        // public DbSet<Meal> Meals { get; set; }
+        // public DbSet<Workout> Workouts { get; set; }
     }
 }
