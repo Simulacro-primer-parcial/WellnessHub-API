@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WellnessHub-API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b157415986cbe7661599f5d11699601f495e0c67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb39d7a38ff75c375c2fe2652bd240eaaa12c91b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WellnessHub-API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WellnessHub-API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
