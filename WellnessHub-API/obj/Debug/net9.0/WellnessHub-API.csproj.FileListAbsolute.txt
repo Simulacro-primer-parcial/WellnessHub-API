@@ -34,3 +34,15 @@ C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\re
 C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.sourcelink.json
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.dll
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\refint\WellnessHub-API.dll
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.pdb

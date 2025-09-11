@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj": {}
+    "C:\\Users\\USUARIO\\Desktop\\Simulacro Primer Parcial\\WellnessHub-API\\WellnessHub-API\\WellnessHub-API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\Simulacro Primer Parcial\\WellnessHub-API\\WellnessHub-API\\WellnessHub-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\Simulacro Primer Parcial\\WellnessHub-API\\WellnessHub-API\\WellnessHub-API.csproj",
         "projectName": "WellnessHub-API",
-        "projectPath": "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\WellnessHub-API.csproj",
-        "packagesPath": "C:\\Users\\marit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marit\\RiderProjects\\WellnessHub-API2\\WellnessHub-API\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\Simulacro Primer Parcial\\WellnessHub-API\\WellnessHub-API\\WellnessHub-API.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\Simulacro Primer Parcial\\WellnessHub-API\\WellnessHub-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -45,6 +45,10 @@
           "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.8, )"
             },
@@ -80,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\marit\\.dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\USUARIO\\.dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
