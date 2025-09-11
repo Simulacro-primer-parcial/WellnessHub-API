@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using WellnessHub.Data;
 using WellnessHub.Models;
 
-namespace PeopleAPI.Controllers;
+namespace WellnessHub.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
