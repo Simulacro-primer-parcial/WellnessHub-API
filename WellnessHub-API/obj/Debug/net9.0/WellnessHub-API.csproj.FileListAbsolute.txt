@@ -1,0 +1,48 @@
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\appsettings.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\WellnessHub-API.staticwebassets.endpoints.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\WellnessHub-API.exe
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\WellnessHub-API.deps.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\WellnessHub-API.runtimeconfig.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\WellnessHub-API.dll
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\WellnessHub-API.pdb
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.csproj.AssemblyReference.cache
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.AssemblyInfoInputs.cache
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.AssemblyInfo.cs
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.csproj.CoreCompileInputs.cache
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.sourcelink.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\scopedcss\bundle\WellnessHub-API.styles.css
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\Wellness.55476E86.Up2Date
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.dll
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\refint\WellnessHub-API.dll
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.pdb
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.genruntimeconfig.cache
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\ref\WellnessHub-API.dll
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mateo\RiderProjects\WellnessHub-API\WellnessHub-API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.sourcelink.json
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.dll
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\refint\WellnessHub-API.dll
+C:\Users\USUARIO\Desktop\Simulacro Primer Parcial\WellnessHub-API\WellnessHub-API\obj\Debug\net9.0\WellnessHub-API.pdb
